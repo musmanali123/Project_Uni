@@ -1,7 +1,7 @@
 class Entry{
     constructor(owner,car,licensePlate){
         this.owner = owner;
-        this.car = car;
+//        this.car = car;
         this.licensePlate = licensePlate;
         var now = new Date();
         var year = now.getFullYear();
