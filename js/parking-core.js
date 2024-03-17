@@ -3,7 +3,7 @@ class Entry{
         this.owner = owner;
 //        this.car = car;
      //   this.licensePlate = licensePlate;
-        var now = new Date();
+       // var now = new Date();
         var year = now.getFullYear();
         var day = now.getDay();
         var month = now.getMonth();
