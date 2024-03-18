@@ -4,7 +4,7 @@ class Entry{
 //        this.car = car;
      //   this.licensePlate = licensePlate;
        // var now = new Date();
-        var year = now.getFullYear();
+      //  var year = now.getFullYear();
         var day = now.getDay();
         var month = now.getMonth();
         var hours = now.getHours();
