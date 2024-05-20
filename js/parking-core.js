@@ -1,4 +1,4 @@
-class Entry{
+// data structure class Entry{
     constructor(owner,car,licensePlate){
         this.owner = owner;
 //        this.car = car;
